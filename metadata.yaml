@@ -1,0 +1,37 @@
+_repo: Pluck-on-the-Long-Trail--Or-Boy-Scouts-in-the-Rockies_20710
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rowe, Clarence H. (Clarence Herbert)
+    birthdate: 1878
+    deathdate: 1930
+    gutenberg_agent_id: '8113'
+    url: http://www.gutenberg.org/2009/agents/8113
+covers:
+- cover_type: archival
+  image_path: 20710-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Sabin, Edwin L. (Edwin Legrand)
+    alias: Sabin, Edwin Legrand
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '9476'
+    url: http://www.gutenberg.org/2009/agents/9476
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+- !lcsh 'Hiking -- Juvenile fiction'
+title: Pluck on the Long Trail; Or, Boy Scouts in the Rockies
+url: http://www.gutenberg.org/ebooks/20710
